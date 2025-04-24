@@ -1,15 +1,8 @@
-@font-face {
-  font-family: "cofo-sans-variable";
-  src: url("https://cdn.glitch.global/f9c9df4d-6684-4f38-9425-c661ef78db1f/Cofo%20Sans%20Variable.otf?v=1723478144864")
-    format("opentype");
-  font-display: auto;
-  font-weight: 100 900;
-  font-stretch: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Hubot+Sans:ital,wght@0,200..900;1,200..900&display=swap');
 
 * {
-  font-family: cofo-sans-variable, sans-serif;
-  color: #1e1e1e;
+  font-family: "Hubot Sans", sans-serif;
+  color: #000;
 }
 
 body {
